@@ -5,7 +5,7 @@ from LaylaRobot import pbot
 from LaylaRobot.pyrogramee.errors import capture_err
 
 
-__mod_name__ = "Github"
+__mod_name__ = "🔱GITHUB🔱"
 
 
 @pbot.on_message(filters.command('github'))

@@ -90,7 +90,7 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="ʟᴏɢꜱ", url=f"https://t.me/laylalogs"),
+        InlineKeyboardButton(text="ʟᴏɢꜱ", url=f"https://t.me/KGF_GBAN_LOGS"),
         InlineKeyboardButton(
             text="ꜰᴇᴅᴇʀᴀᴛɪᴏɴ", url=f"https://t.me/KGF_FED/78"
         ),
@@ -361,7 +361,7 @@ def layla_about_callback(update, context):
                  \n❍ I check for admins' permissions before executing any command and more stuffs
                  \n\n_KGF's licensed under the GNU General Public License v3.0_
                  \n❍ [FOUNDER](t.me/itzmeZeus)
-                 \n❍ ]Support Group](t.me/noobiezhub)
+                 \n❍ [Support Group](t.me/noobiezhub)
                  \nHere is the [💾Repository](https://t.me/neepodamonkey).
                  \n\nIf you have any question about KGF, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
